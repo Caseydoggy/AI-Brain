@@ -5,12 +5,12 @@ completes what is still missing when it needs it.
 
 - **Name:** not filled in yet
 - **City and province:** not filled in yet
-- **Time zone:** not filled in yet
+- **Time zone:** America/Regina
 - **Working days and hours:** not filled in yet
 - **Languages I work in:** not filled in yet
 - **Years as a mortgage broker:** not filled in yet
-- **Brain introduced:** not yet
-- **Brain key expires:** not filled in yet
+- **Brain introduced:** 2026-11-23
+- **Brain key expires:** never
 - **Broker reminded about the key:** never
 
 The last three lines are kept by the bots. "Brain introduced" gets the date the first bot explained
