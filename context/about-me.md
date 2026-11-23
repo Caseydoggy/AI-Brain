@@ -3,11 +3,11 @@
 The broker's basics. The first bot fills them in with the broker ([[brain/joining]]); any bot
 completes what is still missing when it needs it.
 
-- **Name:** not filled in yet
-- **City and province:** not filled in yet
+- **Name:** Chris Paradis
+- **City and province:** Saskatoon, SK
 - **Time zone:** America/Regina
-- **Working days and hours:** not filled in yet
-- **Languages I work in:** not filled in yet
+- **Working days and hours:** Monday to Saturday, flexible hours
+- **Languages I work in:** English
 - **Years as a mortgage broker:** not filled in yet
 - **Brain introduced:** 2026-11-23
 - **Brain key expires:** never
