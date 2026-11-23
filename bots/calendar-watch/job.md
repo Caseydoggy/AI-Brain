@@ -46,4 +46,4 @@ Sorting and answering email (Inbox Manager) · rundowns of the day and the week 
 Dated lines, newest at the bottom: breaks between meetings, which meetings need prep, how they
 book.
 
-(none yet)
+- 2026-11-23: Job agreed as written.
