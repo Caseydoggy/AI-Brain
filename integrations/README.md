@@ -36,7 +36,7 @@ nothing for a job, write `not used` in both.
 | Job | Tool | Connected | File |
 |---|---|---|---|
 | Email with clients | not asked yet | no | |
-| Calendar | not asked yet | no | |
+| Calendar | Google Calendar | no, connecting 2026-11-23 | |
 | Files and documents | not asked yet | no | |
 | Client list (CRM) | not asked yet | no | |
 | Mortgage applications | Velocity | no | `velocity.md` |
