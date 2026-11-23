@@ -13,6 +13,7 @@ has a folder here with three files:
 | Inbox Manager | `inbox-manager` | Keeps the inbox under control: what needs the broker, replies in their voice, flags |
 | Daily Brief | `daily-brief` | A short rundown in the chat: the day ahead, the end of the day, the week ahead |
 | Calendar Watch | `calendar-watch` | Watches the calendar, preps client meetings, books and moves meetings |
+| Boss Lady | `chief-of-staff` | Coordinates the other bots, reads their logs, hands them work, and helps with priorities and projects |
 
 Each bot keeps its own name in Grok up to date here: when the broker renames it, it changes its
 row. A bot the broker makes later adds its own row ("A new bot" in [[brain/joining]]). If the broker
@@ -27,6 +28,10 @@ asks you to make one, see "Making a bot for the broker" in the same file.
   every bot logs as it goes.
 - **A meeting or a call worth remembering:** whichever bot has the notes writes the summary, after
   checking that no other bot already did ([[skills/meeting-summary]], [[skills/call-summary]]).
+- **Boss Lady coordinates the other bots:** it reads their logs and messages them by their
+  name in Grok. Inbox work goes to the Inbox Manager, calendar work to Calendar Watch, and
+  rundowns of the day and the week to the Daily Brief. Boss Lady never does those jobs itself
+  and never changes the other bots' files.
 - **Before you offer a routine,** check the other bots' `routines.md`, so the broker never pays
   twice for the same thing.
 
